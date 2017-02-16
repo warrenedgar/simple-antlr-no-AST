@@ -9,6 +9,7 @@ The structure for an AST will still be parsed out by the grammar provided (in th
 to run
 
 > ./make.sh
+
 > ./run.sh < loremIpsumSample
 
 Note if you would rather parse from a file, that is easily changable in Driver.
