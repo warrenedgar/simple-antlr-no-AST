@@ -14,4 +14,4 @@ to run
 
 Note if you would rather parse from a file, that is easily changable in Driver.
 
-The clean script is agressive, so be carefule of what names are given.
+The clean script is agressive, so be careful of what names are given.
